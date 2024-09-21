@@ -1,4 +1,23 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.co
+DOMAIN-SUFFIX,biliintl.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,csdn.net
+
 
 # MyList
 # 域名后缀匹配
@@ -8,6 +27,8 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,csdn
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -93,23 +114,23 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,biliintl.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
+# DOMAIN-SUFFIX,acg.tv
+# DOMAIN-SUFFIX,acgvideo.com
+# DOMAIN-SUFFIX,b23.tv
+# DOMAIN-SUFFIX,bigfun.cn
+# DOMAIN-SUFFIX,bigfunapp.cn
+# DOMAIN-SUFFIX,biliapi.com
+# DOMAIN-SUFFIX,biliapi.net
+# DOMAIN-SUFFIX,bilibili.com
+# DOMAIN-SUFFIX,bilibili.co
+# DOMAIN-SUFFIX,biliintl.co
+# DOMAIN-SUFFIX,biligame.com
+# DOMAIN-SUFFIX,biligame.net
+# DOMAIN-SUFFIX,bilivideo.com
+# DOMAIN-SUFFIX,bilivideo.cn
+# DOMAIN-SUFFIX,hdslb.com
+# DOMAIN-SUFFIX,im9.com
+# DOMAIN-SUFFIX,smtcdns.net
 
 # ByteDance
 DOMAIN-SUFFIX,amemv.com
